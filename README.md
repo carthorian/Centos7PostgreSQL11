@@ -1,3 +1,4 @@
 # Centos7PostgreSQL11
-# PostgreSQL 11.7 database on Centos:7
+# Centos7 based PostgreSQL 11.7 docker image files
+
 
