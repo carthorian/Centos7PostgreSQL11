@@ -3,6 +3,7 @@
 
 
 Sample Usage:
+
 docker create network postgresql11
 
 docker run -dt --name pgmaster1 -e POSTGRES_DB_TYPE=master --network postgresql11 mehmetkaplaneyesclear/kumocopg11
